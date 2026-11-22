@@ -59,7 +59,9 @@
           "githubUrl": "https://github.com/dtolnay/syn",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/74d02e471789b227b6c73e91a8a7d1c4e1911ab0/chunk-001.nq.gz",
+      "dep": "dep/74d02e471789b227b6c73e91a8a7d1c4e1911ab0.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
