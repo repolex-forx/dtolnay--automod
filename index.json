@@ -1,0 +1,11 @@
+{
+  "org": "dtolnay",
+  "repo": "automod",
+  "versions": [
+    {
+      "commit": "74d02e471789b227b6c73e91a8a7d1c4e1911ab0",
+      "tag": "1.0.16",
+      "parsed_at": "2026-11-22T09:36:59.207865+00:00"
+    }
+  ]
+}
