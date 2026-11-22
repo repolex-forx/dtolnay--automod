@@ -23,6 +23,42 @@
       ],
       "ast": [
         "aggregate/ast/74d02e471789b227b6c73e91a8a7d1c4e1911ab0/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/74d02e471789b227b6c73e91a8a7d1c4e1911ab0.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "proc-macro2",
+          "ecosystem": "CARGO",
+          "version": "1.0.74",
+          "githubOrg": "dtolnay",
+          "githubRepo": "proc-macro2",
+          "githubCommit": "6cb41f895657424f8f64eecbd7e8ad392b0b26e0",
+          "githubTag": "1.0.74",
+          "githubUrl": "https://github.com/dtolnay/proc-macro2",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "quote",
+          "ecosystem": "CARGO",
+          "version": "1.0.35",
+          "githubOrg": "dtolnay",
+          "githubRepo": "quote",
+          "githubCommit": "b01743f24cb5b19f96a3eac6bce0e7aee10f6199",
+          "githubTag": "1.0.35",
+          "githubUrl": "https://github.com/dtolnay/quote",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "syn",
+          "ecosystem": "CARGO",
+          "version": "2.0.46",
+          "githubOrg": "dtolnay",
+          "githubRepo": "syn",
+          "githubCommit": "1650c861a408dcaaa5d77f07472e22cb5aa2abb2",
+          "githubTag": "2.0.46",
+          "githubUrl": "https://github.com/dtolnay/syn",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
